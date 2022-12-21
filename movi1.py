@@ -8,7 +8,7 @@ center2 = "</b></div></a></center> <div align='center' class='movielist'><img sr
 
 M_URL = input("Enter Movie Image URL :")
 
-center3 = "' width='300' height='250'style=\"margin:20px;\"/></div>\n\n"
+center3 = "\' width='300' height='250'style=\"margin:20px;\"/></div>\n\n"
 
 #Movies Information
 
